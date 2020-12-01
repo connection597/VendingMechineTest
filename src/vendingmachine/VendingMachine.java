@@ -23,7 +23,6 @@ public class VendingMachine {
 	public void setDrinkStock(int drnkStock) {
 		this.drinkStock = drinkStock;}
 
-	
 	}
 	
 
